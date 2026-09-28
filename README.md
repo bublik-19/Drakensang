@@ -220,4 +220,4 @@ Drakensang is provided as a full free version, including all features and update
 Start your epic adventure today! Download Drakensang free and dive into the world of classic RPGs like never before!
 
 ---
-**Last updated:** 2026-09-28 01:31:25 UTC
+**Last updated:** 2026-09-28 08:32:34 UTC
